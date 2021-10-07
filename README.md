@@ -1,7 +1,13 @@
 # TwitterFlitter
-Used to interact with live Twitter tweets.
 
-Openframeworks C++ application.
+Created a GUI for interacting with the Twitter API. Built in C++ with openFrameworks.
+
+![](assets/recording_001.gif)
+
+### Original design
+![](assets/twitterFlitter_design.jpg)
+
+### Openframeworks C++ application.
 Required addons:
 * [ofxGeo](https://github.com/bakercp/ofxGeo)
 * [ofxHTTP](https://github.com/bakercp/ofxHTTP)
