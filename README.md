@@ -5,7 +5,7 @@ Created a GUI for interacting with the Twitter API. Built in C++ with openFramew
 ![](assets/recording_001.gif)
 
 ### Original design
-![](assets/twitterFlitter_design.jpg)
+![](assets/twitterflitter_design.jpg)
 
 ### Openframeworks C++ application.
 Required addons:
