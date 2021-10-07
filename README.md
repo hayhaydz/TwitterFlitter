@@ -2,7 +2,9 @@
 
 I created a GUI for interacting with the Twitter API. Built in C++ with openFrameworks. Learning the different endpoints that Twitter has available and how they could be utilised was the key takeaway for this project. There is so much more that could be done with the API than just this basic use of interaction. It was great to find out more about it.
 
+### Screen capture
 ![](assets/recording_001.gif)
+
 
 ### Original design
 ![](assets/twitterflitter_design.jpg)
@@ -20,3 +22,6 @@ Required addons:
 * [ofxDatGui](https://github.com/braitsch/ofxDatGui)
 * [ofxEasing](https://github.com/arturoc/ofxEasing)
 * [ofxTrueTypeFontUC](https://github.com/hironishihara/ofxTrueTypeFontUC)
+
+
+To run this application simply download and find the .exe in the "application folder", double click this and start using the vending machine.
