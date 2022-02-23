@@ -24,4 +24,4 @@ Required addons:
 * [ofxTrueTypeFontUC](https://github.com/hironishihara/ofxTrueTypeFontUC)
 
 
-To run this application simply download and find the .exe in the "application folder", double click this and start searching for tweets.
+To run this application simply download and find the .exe in the "application" folder, double click this and start searching for tweets.
